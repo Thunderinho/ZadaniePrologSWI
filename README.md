@@ -1,6 +1,6 @@
 # ZadaniePrologSWI
 
-Obraz 3
+Obraz 2
 
 Za pomocą polecenia "character(X)." wyświetlamy wszystkie postacie.
 Za pomocą polecenia "bloodties(X)." wyświetlamy jakie postacie mają więzy krwi.
